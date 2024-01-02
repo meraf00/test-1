@@ -25,3 +25,7 @@ for _ in range(testcases):
     (xq - b, yq - a)])
 
     print(len(possible_king.intersection(possible_queen)))
+
+    
+
+    
